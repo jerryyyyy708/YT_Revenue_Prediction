@@ -1,7 +1,7 @@
 # **YouTube Revenue Prediction**
 
 1.Introduction
-* 目標:建立一個可以用來預測yotube影片收益的模型。
+* 目標:建立一個可以用來預測YouTube影片收益的模型。
 * 解決問題:Youtuber收入不穩定，影片上傳後要等一陣子才能知道收益如何，而官方提供的預估收益又與實際收益相差很多(如下圖)，在規劃金錢使用上會變得很麻煩，因此想用機器學習預測收入的方式解決這個問題。
 <img src="https://i.imgur.com/h3VqGKK.jpg" width="300px">
 
@@ -42,6 +42,8 @@
 
 
 6.Conclusion
+
+
 Model預測的比起YT網站提供的預測來得更準確一些，因此確實可以用來幫助分析收益，但由於我自己的dataset中能預測的收益範圍有限(不夠紅QQ)，因此只適合用以預測收入在4000以下的Youtuber，若是能認識更有名的Youtuber，得到不同範圍的dataset，或許能讓應用變得更廣泛。
 
 7.Application
