@@ -1,0 +1,579 @@
+Antecedent,Consequent,Support,Confidence
+frozenset({'YouTube ad revenue (TWD)_High Revenue'}),frozenset({'Views_High'}),0.24242424242424243,0.7272727272727273
+frozenset({'Views_High'}),frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.24242424242424243,0.7272727272727273
+frozenset({'Views_Low'}),frozenset({'YouTube ad revenue (TWD)_Low Revenue'}),0.24675324675324675,0.7402597402597403
+frozenset({'YouTube ad revenue (TWD)_Low Revenue'}),frozenset({'Views_Low'}),0.24675324675324675,0.7402597402597403
+frozenset({'Watch time (hours)_High'}),frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.24242424242424243,0.7272727272727273
+frozenset({'YouTube ad revenue (TWD)_High Revenue'}),frozenset({'Watch time (hours)_High'}),0.24242424242424243,0.7272727272727273
+frozenset({'YouTube ad revenue (TWD)_Low Revenue'}),frozenset({'Watch time (hours)_Low'}),0.24242424242424243,0.7272727272727273
+frozenset({'Watch time (hours)_Low'}),frozenset({'YouTube ad revenue (TWD)_Low Revenue'}),0.24242424242424243,0.7272727272727273
+frozenset({'YouTube ad revenue (TWD)_High Revenue'}),frozenset({'Dislikes_High'}),0.23376623376623376,0.7012987012987013
+frozenset({'Dislikes_High'}),frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.23376623376623376,0.7012987012987013
+frozenset({'Subscribers_High'}),frozenset({'Subscribers gained_High'}),0.3203463203463203,0.9866666666666666
+frozenset({'Subscribers gained_High'}),frozenset({'Subscribers_High'}),0.3203463203463203,0.961038961038961
+frozenset({'Subscribers gained_Low'}),frozenset({'Subscribers_Low'}),0.3246753246753247,0.974025974025974
+frozenset({'Subscribers_Low'}),frozenset({'Subscribers gained_Low'}),0.3246753246753247,0.9615384615384616
+frozenset({'Subscribers gained_Medium'}),frozenset({'Subscribers_Medium'}),0.31601731601731603,0.9480519480519481
+frozenset({'Subscribers_Medium'}),frozenset({'Subscribers gained_Medium'}),0.31601731601731603,0.9358974358974359
+"frozenset({'Subscribers lost_High', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.11688311688311688,1.0
+"frozenset({'Subscribers lost_High', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.11688311688311688,0.9310344827586207
+"frozenset({'Subscribers lost_High', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.11688311688311688,1.0
+"frozenset({'Subscribers lost_High', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.11688311688311688,0.9310344827586207
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.13852813852813853,0.9696969696969697
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.13852813852813853,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.13852813852813853,0.9696969696969697
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.13852813852813853,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.20346320346320346,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.20346320346320346,0.9791666666666665
+"frozenset({'Subscribers lost_High', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.11688311688311688,1.0
+"frozenset({'Subscribers lost_High', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.11688311688311688,0.9310344827586207
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.13852813852813853,0.9696969696969697
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.13852813852813853,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.20346320346320346,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.20346320346320346,0.9791666666666665
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.20346320346320346,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.20346320346320346,0.9791666666666665
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1645021645021645,0.9500000000000001
+"frozenset({'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1645021645021645,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,0.75
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1645021645021645,0.9500000000000001
+"frozenset({'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1645021645021645,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.21212121212121213,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.21212121212121213,1.0
+"frozenset({'Subscribers gained_Low', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers_Low'}),0.1038961038961039,0.9230769230769231
+"frozenset({'Subscribers_Low', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,0.9600000000000001
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1645021645021645,0.9500000000000001
+"frozenset({'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1645021645021645,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.21212121212121213,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.21212121212121213,1.0
+"frozenset({'Subscribers gained_Low', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers_Low'}),0.1038961038961039,0.9230769230769231
+"frozenset({'Subscribers_Low', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,0.9600000000000001
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.21212121212121213,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.21212121212121213,1.0
+"frozenset({'Subscribers gained_Low', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers_Low'}),0.1038961038961039,0.9230769230769231
+"frozenset({'Subscribers_Low', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,0.9600000000000001
+"frozenset({'Subscribers gained_Medium', 'Subscribers lost_Low'})",frozenset({'Subscribers_Medium'}),0.1471861471861472,0.9714285714285715
+"frozenset({'Subscribers lost_Low', 'Subscribers_Medium'})",frozenset({'Subscribers gained_Medium'}),0.1471861471861472,0.9444444444444445
+"frozenset({'Subscribers gained_Medium', 'Subscribers lost_Low'})",frozenset({'Subscribers_Medium'}),0.1471861471861472,0.9714285714285715
+"frozenset({'Subscribers lost_Low', 'Subscribers_Medium'})",frozenset({'Subscribers gained_Medium'}),0.1471861471861472,0.9444444444444445
+"frozenset({'Subscribers gained_Medium', 'YouTube ad revenue (TWD)_High Revenue'})",frozenset({'Subscribers_Medium'}),0.10822510822510822,0.9259259259259259
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_Medium'})",frozenset({'Subscribers gained_Medium'}),0.10822510822510822,0.9615384615384615
+"frozenset({'Subscribers gained_Medium', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers_Medium'}),0.12987012987012986,0.9677419354838708
+"frozenset({'Subscribers_Medium', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers gained_Medium'}),0.12987012987012986,0.9374999999999999
+"frozenset({'Subscribers gained_Medium', 'Subscribers lost_Low'})",frozenset({'Subscribers_Medium'}),0.1471861471861472,0.9714285714285715
+"frozenset({'Subscribers lost_Low', 'Subscribers_Medium'})",frozenset({'Subscribers gained_Medium'}),0.1471861471861472,0.9444444444444445
+"frozenset({'Subscribers gained_Medium', 'YouTube ad revenue (TWD)_High Revenue'})",frozenset({'Subscribers_Medium'}),0.10822510822510822,0.9259259259259259
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_Medium'})",frozenset({'Subscribers gained_Medium'}),0.10822510822510822,0.9615384615384615
+"frozenset({'Subscribers gained_Medium', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers_Medium'}),0.12987012987012986,0.9677419354838708
+"frozenset({'Subscribers_Medium', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers gained_Medium'}),0.12987012987012986,0.9374999999999999
+"frozenset({'Subscribers gained_Medium', 'YouTube ad revenue (TWD)_High Revenue'})",frozenset({'Subscribers_Medium'}),0.10822510822510822,0.9259259259259259
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_Medium'})",frozenset({'Subscribers gained_Medium'}),0.10822510822510822,0.9615384615384615
+"frozenset({'Subscribers gained_Medium', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers_Medium'}),0.12987012987012986,0.9677419354838708
+"frozenset({'Subscribers_Medium', 'YouTube ad revenue (TWD)_Medium Revenue'})",frozenset({'Subscribers gained_Medium'}),0.12987012987012986,0.9374999999999999
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers_High'}),0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.7272727272727274
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers_High'}),0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.7272727272727274
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers_High'}),0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.7272727272727274
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers_High', 'Subscribers gained_High'})",0.1038961038961039,0.7058823529411764
+"frozenset({'Subscribers lost_Low', 'Subscribers_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers gained_High'})",0.1038961038961039,0.7272727272727274
+"frozenset({'Subscribers lost_Low', 'Subscribers gained_High'})","frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers_High'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers_High'})",frozenset({'Subscribers gained_High'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_High Revenue', 'Subscribers lost_Low', 'Subscribers gained_High'})",frozenset({'Subscribers_High'}),0.1038961038961039,1.0
+"frozenset({'Subscribers lost_Low', 'Subscribers_High', 'Subscribers gained_High'})",frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low'})","frozenset({'Subscribers gained_Low', 'Subscribers_Low'})",0.1038961038961039,0.75
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers gained_Low'})",frozenset({'Subscribers_Low'}),0.1038961038961039,1.0
+"frozenset({'YouTube ad revenue (TWD)_Low Revenue', 'Subscribers lost_Low', 'Subscribers_Low'})",frozenset({'Subscribers gained_Low'}),0.1038961038961039,1.0
+frozenset({'YouTube ad revenue (TWD)_High Revenue'}),frozenset({'Impressions_High'}),0.24675324675324675,0.7402597402597403
+frozenset({'Impressions_High'}),frozenset({'YouTube ad revenue (TWD)_High Revenue'}),0.24675324675324675,0.7402597402597403
+frozenset({'YouTube ad revenue (TWD)_Low Revenue'}),frozenset({'Impressions_Low'}),0.23376623376623376,0.7012987012987013
+frozenset({'Impressions_Low'}),frozenset({'YouTube ad revenue (TWD)_Low Revenue'}),0.23376623376623376,0.7012987012987013
